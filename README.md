@@ -2,7 +2,7 @@
 # Hello, World! Collection
 This repository contains a bunch of "Hello, World!" written in different languages, because why not?
 # Languages
-The languages currently on this repository currently are:
+The languages currently on this repository are:
 - C
 - C++
 - Batch
