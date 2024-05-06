@@ -6,3 +6,4 @@ The languages currently on this repository currently are:
 - C++
 - Batch
 - PowerShell
+- Rust
