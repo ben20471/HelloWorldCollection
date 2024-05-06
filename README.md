@@ -7,3 +7,11 @@ The languages currently on this repository currently are:
 - Batch
 - PowerShell
 - Rust
+- Assembly
+- Brainfuck
+- Go
+- HTML
+- Java
+- Python
+- Swift
+- TypeScript
